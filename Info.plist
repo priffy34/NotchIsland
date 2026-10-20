@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key><string>NotchIsland</string>
+    <key>CFBundleDisplayName</key><string>Notch Island</string>
+    <key>CFBundleIdentifier</key><string>com.local.notchisland</string>
+    <key>CFBundleExecutable</key><string>NotchIsland</string>
+    <key>CFBundlePackageType</key><string>APPL</string>
+    <key>CFBundleShortVersionString</key><string>1.0</string>
+    <key>CFBundleVersion</key><string>1</string>
+    <key>LSMinimumSystemVersion</key><string>13.0</string>
+    <key>LSUIElement</key><true/>
+    <key>NSHighResolutionCapable</key><true/>
+    <key>NSDesktopFolderUsageDescription</key><string>Показывать превью свежих скриншотов, сохранённых на Рабочий стол</string>
+    <key>NSDownloadsFolderUsageDescription</key><string>Показывать превью свежих скриншотов, сохранённых в Загрузки</string>
+    <key>NSDocumentsFolderUsageDescription</key><string>Показывать превью свежих скриншотов, сохранённых в Документы</string>
+    <key>NSBluetoothAlwaysUsageDescription</key><string>Показывать уведомление при подключении Bluetooth-устройств</string>
+</dict>
+</plist>
